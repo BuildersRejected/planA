@@ -1,0 +1,19 @@
+{
+ "bot": {
+  "meta": {
+   "name": "PlanA",
+   "author": "BRXathartic",
+   "website" : "",
+   "email" : ""
+  },
+ "commandPrefix": "!plan", // either default or custom
+ "defaultCommandPrefix" : "!plan",
+ "customCommandPrefix" : "false",
+ "adminRole": "planA: Admin",
+ "useVictimRole" : "false",
+ "useUsername" : "true",
+ "victimRole" : "planA",
+ "defaultVictimRole" : "planA",
+ "victimUsername" : "BRXathartic"
+  }
+}
